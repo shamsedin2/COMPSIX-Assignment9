@@ -1,0 +1,28 @@
+{
+  "name": "compsix-assignment9",
+  "version": "1.0.0",
+  "description": "COMPSIX Assignment 9 - JavaScript Project",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamseldinadam23/COMPSIX-Assignmen9.git"
+  },
+  "keywords": [
+    "compsix",
+    "assignment",
+    "javascript"
+  ],
+  "author": "shamseldinadam23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shamseldinadam23/COMPSIX-Assignmen9/issues"
+  },
+  "homepage": "https://github.com/shamseldinadam23/COMPSIX-Assignmen9#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
