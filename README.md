@@ -1,1 +1,1 @@
-# COMPSIX-Assignment9
+# Source code directory
